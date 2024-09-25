@@ -24,6 +24,22 @@ Após a autorização pela sua metamask, a "mintagem" do NFT está feita e pode 
 
 <img src="./images/nft_opensea.png" alt="nft opensea" style="width:100%;">
 
-Processo bastante simples e super interessante.
+O processo foi bastante simples e super interessante.
+
+Após a criação do NFT, ele foi enviado para a carteira solicitada no curso pelo professor Ricardo Zago:
+OpenSea – Polygon: ​0xA9155F5B6FC993A82346a8ff86EFEf513fc4c096
+
+<img src="./images/nft_transfer.png" alt="create nft" style="width:30%;">​
+link da transação:
+[https://polygonscan.com/tx/0x51da005a4a08abb5a7502e5d136d76eeeda07a9b698ffef3a7089dfba84008c8](https://polygonscan.com/tx/0x51da005a4a08abb5a7502e5d136d76eeeda07a9b698ffef3a7089dfba84008c8)
 
 ## Uptick
+
+<img src="./images/uptick_keplr.png" alt="keplr" style="width:30%;">
+
+Após a criação do NFT, ele foi enviado para a carteira solicitada no curso:
+Uptick​: iaa1ld2ck02x0909lg5tkqwdkfnsnsz7mmg6952jar
+
+<img src="./images/uptick_transfer.png" alt="Uptick transfer" style="width:30%;">
+link da transação:
+[https://irishub.iobscan.io/#/txs/C03FFCCBFEDFD73BE2D3FEC674C48CA1B6AFA3F17B766860B6E67291EA3EDA34](https://irishub.iobscan.io/#/txs/C03FFCCBFEDFD73BE2D3FEC674C48CA1B6AFA3F17B766860B6E67291EA3EDA34)
